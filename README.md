@@ -8,3 +8,5 @@ Cada Algorítmo possui dois modos:
 Manual: Onde os valores do algorítmo são manuais
 
 Automático: Valores definidos em um arquivo "txt"
+
+Ygor Melo Rodrigues Da Silva
